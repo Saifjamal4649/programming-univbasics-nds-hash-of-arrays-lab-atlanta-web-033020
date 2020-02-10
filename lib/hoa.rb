@@ -5,7 +5,7 @@ BASE_HOA = {
 }
 
 
-def dd_character(show, name)
+def add_character(show, name)
   # Write your implementation here
   # Should return the array of the 'show' argument
   BASE_HOA[:chipmunks] << "Dave"
